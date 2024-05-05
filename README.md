@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/thejaswinidhanaraj/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148514511/2a826fd4-2aa4-4c03-a664-38b12b17c1b6)
+
+### Name:THEJASWINI D
+### Register Number:212223110059
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
